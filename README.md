@@ -131,19 +131,13 @@ Click the **Copy** button to copy the entire Google Document text.
 
 ## Screenshots
 
-Add screenshots inside:
+### Home Screen
 
-```text
-screenshots/
-```
+![Home Screen](screenshots/home.png)
 
-Example:
+### Copy Success Notification
 
-```markdown
-![Home Screen](screenshots/app-home.png)
-```
-
----
+![Copy Success Notification](screenshots/copy-success.png)
 
 ## Future Enhancements
 
